@@ -1,31 +1,31 @@
 .row-header{
-    margin:0px auto;
+    margin:0px auto;/*CSS has properties for specifying the margin for each side of an element*/
     padding:0px;
 }
 .row-content{
-    margin:0px auto;
-    padding:50px 0px 50px 0px;
+    margin:0px auto;/*CSS has properties for specifying the margin for each side of an element*/
+    padding:50px 0px 50px 0px;/*CSS has properties for specifying the padding for each side of an element*/
     border-bottom: 1px ridge;
     min-height:400px;
 }
 .footer{
-    background-color: #D1C4E9;
-    margin:0px auto;
-    padding: 20px 0px 20px 0px;
+    background-color: #D1C4E9;/*The background-color property sets the background color of an element*/
+    margin:0px auto;/*CSS has properties for specifying the margin for each side of an element*/
+    padding: 20px 0px 20px 0px;/*CSS has properties for specifying the padding for each side of an element*/
 }
 
 .jumbotron{
-    padding: 70px 30px 70px 30px;
-    margin:0px auto;
+    padding: 70px 30px 70px 30px;/*CSS has properties for specifying the padding for each side of an element*/
+    margin:0px auto;/*CSS has properties for specifying the margin for each side of an element*/
     background: #9575CD;
     color:floralwhite;
 }
 address{
     font-size: 80%;
-    margin:0px;
+    margin:0px;/*CSS has properties for specifying the margin for each side of an element*/
     color:#0f0f0f;
 }
 .card
 {
-    margin: 0 auto;
+    margin: 0 auto;/*CSS has properties for specifying the margin for each side of an element*/
 }
